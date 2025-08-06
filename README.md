@@ -72,8 +72,8 @@ Welcome to my GitHub! I'm a passionate Mobile Developer with **4+ years** of exp
 ### 🌐 Let's Connect!
 
 - 📧 **Email:** duonghaidang2k@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 🐙 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 **LinkedIn:** [linkedin.com/in/dang-duong-7b6a9a207](https://www.linkedin.com/in/dang-duong-7b6a9a207)
+- 🐙 **GitHub:** [github.com/duonghaidang](https://github.com/duonghaidang)
 
 ### 📱 Mobile Development Focus Areas
 
